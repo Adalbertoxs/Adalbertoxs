@@ -52,4 +52,6 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/adalbertoxs/adalbertoxs/output/snake.svg" alt="Snake animation" />
+
 ###
