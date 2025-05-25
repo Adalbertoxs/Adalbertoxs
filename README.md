@@ -1,4 +1,4 @@
-<h2 align="left">👨🏾‍💻 Adalberto S Pereira<br><br>Futuro Desenvolvedor FullStack<br><br>Me chamo Adalberto da Silva Pereira, tenho 20 anos e sou natural do Goiás. Atualmente, estou cursando Engenharia da Computação na UFU. Sou apaixonado por tecnologia desde pequeno e sempre desmontei eletrônicos e afins para descobrir como funcionavam.</h2>
+<h2 align="left">👨🏾‍💻 Adalberto S Pereira<br><br>**`Futuro Desenvolvedor FullStack`**<br><br>Me chamo Adalberto da Silva Pereira, tenho 20 anos e sou natural do Goiás. Atualmente, estou cursando Engenharia da Computação na UFU. Sou apaixonado por tecnologia desde pequeno e sempre desmontei eletrônicos e afins para descobrir como funcionavam.</h2>
 
 ###
 
